@@ -1,4 +1,4 @@
-# C HTML Generator
+# C++ HTML Generator
 
 how to use
 
